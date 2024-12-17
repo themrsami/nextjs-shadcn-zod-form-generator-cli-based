@@ -1,4 +1,4 @@
-# Next.js Form Generator CLI
+# Next.js Full Stack Form Generator - ZOD Validation - MongoDB Integration - CLI Based
 
 A powerful CLI tool that generates customizable form components for Next.js applications with built-in features like server actions, API routes, Zod validation, and MongoDB integration.
 
