@@ -1,0 +1,21 @@
+{
+  "name": "form-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "generate-form": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@hookform/resolvers": "^3.9.1",
+    "inquirer": "^12.2.0",
+    "zod": "^3.24.1"
+  }
+}
